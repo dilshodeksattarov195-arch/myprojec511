@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsarse",
+        "uuid": 1205449,
+        "checksum": "vgym68"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
